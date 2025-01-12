@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KriezAlf&hide=asp.net&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&title_color=22a4b3&custom_title=Top%20Languages)](https://github.com/KriezAlf)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=KriezAlf&theme=tokyonight&hide_border=true&custom_title=Tius%27s%20GitHub%20Stats&title_color=22a4b3&count_private=true&show_icons=true)](https://github.com/KriezAlf)
+[![Stats](https://github-readme-stats.vercel.app/api?username=KriezAlf&theme=tokyonight&hide_border=true&custom_title=Steven%27s%20GitHub%20Stats&title_color=22a4b3&count_private=true&show_icons=true)](https://github.com/KriezAlf)
 
 ![Laravel](https://img.shields.io/badge/-Laravel-ffdedb?style=flat&logo=Laravel)
 ![Inertia](https://img.shields.io/badge/-Inertia-e0e0e0?style=flat&logo=inertia)
